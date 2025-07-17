@@ -6,10 +6,6 @@
 <h1 align="center">🌱 LatticeOS — Architecture for Connection</h1>
 <h3 align="center">Revive. Repurpose. Reconnect.</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LatticeOSdev/latticeos.github.io/main/linux-druid-avatar.png" width="120" alt="Buzz Avatar" />
-</p>
-
 ---
 
 **LatticeOS** is a lightweight Linux-based operating system designed to breathe new life into legacy and upcycled hardware. Built with care, minimalism, and a DIY spirit, it's more than an OS — it's a movement.
@@ -47,6 +43,8 @@ LatticeOS exists to:
 
 <h2 align="center">Hi, I'm Buzz 🛠️</h2>
 <p align="center">
+  <img src="https://raw.githubusercontent.com/LatticeOSdev/latticeos.github.io/main/buzzavatar.png" width="120" alt="Buzz Avatar" />
+</p>
   <em>Technologist | Tinkerer | AI Explorer | Human-Centered Developer</em>
 </p>
 
