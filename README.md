@@ -43,7 +43,7 @@ LatticeOS exists to:
 
 <h2 align="center">Hi, I'm Buzz 🛠️</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LatticeOSdev/latticeos.github.io/main/buzzavatar.png" width="120" alt="Buzz Avatar" />
+  <img src="https://raw.githubusercontent.com/LatticeOSdev/LatticeOSdev.github.io/main/buzzavatar.png" width="120" alt="Buzz Avatar" />
 </p>
   <em>Technologist | Tinkerer | AI Explorer | Human-Centered Developer</em>
 </p>
