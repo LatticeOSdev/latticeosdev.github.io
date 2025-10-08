@@ -55,14 +55,13 @@ LatticeOS exists to:
 - 🔧 Building LatticeOS – a Linux distro designed to revive legacy hardware.
 - 🧠 Passionate about AI ethics, open-source, and sustainable computing.
 - 📜 U.S. Navy Veteran (Hospital Corpsman) with leadership and tech operations experience.
-- 🎯 Currently applying to be a **Technical Sourcer at DuckDuckGo** – rooting for private, people-first search and software.
 
 ---
 
 ### 💻 Current Projects
 
-- **🌿 LatticeOS**: Custom Linux OS built for edge devices and legacy phones.
-- **📱 Project Lattice**: Repurposing old Galaxy phones into a distributed AI cluster.
+- **🌿 LatticeOS**: Custom Linux OS built for edge and legacy devices.
+- **📱 Project Lattice**: Repurposing old cell phones into a distributed AI cluster.
 - **🧠 LegacyTwig**: Secure AI voice archive to preserve loved ones’ stories and personalities.
 - **🔌 BuzzDock**: Modular, hot-swappable power and node rail for embedded AI networks.
 
@@ -89,8 +88,8 @@ GitHub: [github.com/LatticeOSdev](https://github.com/LatticeOSdev)
 ### 🤝 Connect with Me
 
 - 🌐 [LatticeOS.dev](https://latticeos.dev)
-- 💌 [Email Me](mailto:sheltonstalford@pm.me)
-- 🧑‍💻 [Resume & Cover Letter Available on Request]
+- 💌 [Email Me](mailto:contact@latticeos.dev)
+- 🧑‍💻 []
 
 ---
 
@@ -98,5 +97,5 @@ GitHub: [github.com/LatticeOSdev](https://github.com/LatticeOSdev)
 
 ---
 
-> *"Give new life to your favorite old devices and join the movement, with LatticeOS."*  
+> *"Give new life to your favorite old devices and join the movement."*  
 > — Buzz & Nova
