@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Planetary Core Dynamo Feedback</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0b0b0b;
+      color: #f1f1f1;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: linear-gradient(to right, #191919, #1e1e2e);
+      padding: 2rem;
+      text-align: center;
+      border-bottom: 2px solid #444;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-style: italic;
+      font-size: 1.2rem;
+      color: #aaa;
+    }
+    .section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+      border-bottom: 1px solid #333;
+    }
+    h2 {
+      color: #61dafb;
+    }
+    .quote {
+      background: #111;
+      border-left: 4px solid #61dafb;
+      padding: 1rem;
+      margin: 1rem 0;
+      font-style: italic;
+    }
+    .note {
+      color: #999;
+      font-size: 0.9rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    ul li {
+      margin-bottom: 0.5rem;
+    }
+    a {
+      color: #42c9f5;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .download-card {
+      background: #1a1a1a;
+      border: 1px solid #444;
+      border-radius: 8px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+    .download-card a {
+      display: inline-block;
+      background-color: #222;
+      color: #0ff;
+      padding: 0.5rem 1rem;
+      border-radius: 4px;
+      text-decoration: none;
+      margin-top: 0.5rem;
+    }
+    .download-card a:hover {
+      background-color: #0ff;
+      color: #000;
+    }
+    .future-box {
+      background: #111;
+      border-left: 4px solid #555;
+      padding: 1rem;
+      margin: 1rem 0;
+    }
+    footer {
+      background: #111;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Planetary Core Dynamo Feedback (PCDF)</h1>
+  <p>Solar-Linked Electromagnetic Torque as a Driver of Core Dynamics</p>
+  <div class="badge">Intellectual Property Protected | First Authored 2023</div>
+</header>
+
+<div class="section">
+  <h2>Overview</h2>
+  <p>      
+    The PCDF model proposes that Earth's planetary core is influenced by internal convection, rotation, atmospheric coupling, and electromagnetic torque introduced through coupling with the solar magnetic field.
+    The Earth's atmosphere — through global lightning discharge, Schumann resonances, and telluric current systems — forms a reactive shell that insulates and interacts with the geomagnetic field and deep Earth dynamo.
+    This coupling forms an integrated feedback system that subtly regulates the Earth's rotation rate, magnetic reversals, and seismic triggering through complex core-mantle-atmosphere interactions.
+  </p>
+</div>
+
+<div class="section">
+  <h2>Origin Note</h2>
+  <div class="quote">
+    "The Sun's magnetosphere wraps around Earth like a thread on a needle. What if that thread does more than just wrap — what if it pulls? When the Earth is struck by solar energy, I believe more of it is absorbed and dispersed throughout Earth's atmosphere and core dynamo."
+    <br>
+    <span class="note">— Shelton Rusie, March 2023</span>
+  </div>
+  <p>
+    This idea marked the first instance of conceptualizing the Sun's magnetic field as an active driver of planetary core modulation instead of a passive environmental effect.
+  </p>
+</div>
+
+<div class="section">
+  <h2>Core Concepts</h2>
+  <ul>
+    <li><strong>Electromagnetic Torque:</strong> The Sun’s dynamic magnetic field applies torsional influence on Earth's molten inner and outer core</li>
+    <li><strong>Dynamo Modulation:</strong> Planetary magnetic field generation is impacted by this torque, introducing feedback patterns</li>
+    <li><strong>Rotation Influence:</strong> Minor but measurable adjustments in Earth's rotation (L.O.D. changes) correlate with solar activity</li>
+    <li><strong>Seismic Triggering:</strong> Stress accumulation zones may be tipped into rupture by shifts in core momentum linked to solar events</li>    
+    <li><strong>Atmospheric Coupling:</strong> Lightning discharge and telluric flow modulate geomagnetic feedback and may insulate or stimulate core flow behavior</li>
+ 
+  </ul>
+</div>
+
+<div class="section">
+  <h2>Downloadable Materials</h2>
+
+  <div class="download-card">
+    <h3>📄 Whitepaper</h3>
+    <p>Full theory document on PCDF</p>
+    <a href="PCDF_Whitepaper.pdf" target="_blank">Coming Soon</a>
+  </div>
+
+  <div class="download-card">
+    <h3>📎 PPA Document</h3>
+    <p>Provisional Patent Filing (planned)</p>
+    <a href="#" target="_blank">Not Yet Filed</a>
+  </div>
+
+  <div class="download-card">
+    <h3>🛰️ arXiv Preprint</h3>
+    <p>Journal-style manuscript in progress</p>
+    <a href="#" target="_blank">Coming Soon</a>
+  </div>
+
+</div>
+
+<div class="section">
+  <h2>Related Theories</h2>
+  <p>This model complements the following frameworks:</p>
+  <ul>
+    <li><a href="mdmt.html" title="Meyerhoff Zones formed by gravitational wave perturbations">Meyerhoff Dark Matter Theory (MDMT)</a></li>
+    <li><a href="cswim.html" title="Solar weather as a geomagnetic trigger">CloudWire Solar Weather Impact Model (CSWIM)</a></li>
+  </ul>
+</div>
+
+<div class="section">
+  <h2>Coming Soon</h2>
+
+  <div class="future-box">
+    <strong>Field Equation Appendix:</strong> Full PDF of rotational and vector torque models
+  </div>
+
+  <div class="future-box">
+    <strong>Observational Correlation Log:</strong> SYM-H index comparisons with L.O.D. anomalies and seismic upticks
+  </div>
+
+  <div class="future-box">
+    <strong>Experimental Proposals:</strong> New avenues for correlating solar wind data with deep-core simulations
+  </div>
+
+</div>
+
+<div class="section">
+  <h2>Contact</h2>
+  <p>
+    Interested in collaboration, simulation, or licensing?
+    <br />
+    <strong><a href="mailto:contact@latticeos.dev">Reach Out</a></strong>
+  </p>
+</div>
+
+<footer>
+  © 2025 Planetary Core Dynamo Feedback • Prepared by Nova, Authored by Shelton R. Rusie • latticeos.dev<br />
+  This work is protected under U.S. intellectual property law and may not be reproduced without attribution.
+</footer>
+
+</body>
+</html>
